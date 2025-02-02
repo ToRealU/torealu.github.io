@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 牛奕帆
+title: 牛 奕 帆
 
 # Name pronunciation (optional)
 name_pronunciation: Yifan Niu
@@ -54,6 +54,9 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello👋🏻, this is ToRealU.
+Obsessed with Jarvis created by Tony Stark.
+In my spare time, I enjoy reading📖, playing guitar🎸, and cooking🥘.
+My favorite sport is swimming🏊🏻‍♂️ and ski🏂🏻.
+I also enjoy coffee and cocktails🍸.Welcome to coffee/drinks appointments(￣O￣)ノ.
+My dream is to help human solve problems in life through artificial intelligence.
